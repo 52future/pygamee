@@ -224,15 +224,6 @@ while running:
             continue # 안쪽 for 문 조건이 맞지 않으면 continue. 바깥 for 문 계속 수행
         break # 안쪽 for 문에서 break 를 만나면 여기로 진입 가능. 2중 for 문을 한번에 탈출
 
-    # for 바깥조건:
-    #     바깥동작
-    #     for 안쪽조건:
-    #         안쪽동작
-    #         if 충돌하면:
-    #             break
-    #     else:
-    #         continue
-    #     break
 
     # 충돌된 공 or 무기 없애기
     if ball_to_remove > -1:
@@ -243,7 +234,7 @@ while running:
         del weapons[weapon_to_remove]
         weapon_to_remove = -1
 
-    # 모든 공을 없앤 경우 게임 종료 (성공)
+    #  성공
     if len(balls) == 0:
         game_result = "Mission Complete"
         running = False
@@ -268,14 +259,14 @@ while running:
     timer = game_font.render("Time : {}".format(int(total_time - elapsed_time)), True, (255, 255, 255))
     screen.blit(timer, (10, 10))
 
-    # 시간 초과했다면
+    # 시간 초과
     if total_time - elapsed_time <= 0:
         game_result = "Time Over"
         running = False
 
     pygame.display.update()
 
-# 게임 오버 메시지
+# 게임 오버
 msg = game_font.render(game_result, True, (255, 255, 0)) # 노란색
 msg_rect = msg.get_rect(center=(int(screen_width / 2), int(screen_height / 2)))
 screen.blit(msg, msg_rect)
