@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54d9383c-e9d5-4448-9f18-565ab7c0bbf8" name="Default Changelist" comment="" />
+    <list default="true" id="54d9383c-e9d5-4448-9f18-565ab7c0bbf8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_gameover.py" beforeDir="false" afterPath="$PROJECT_DIR$/6_gameover.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +17,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1lsLY0MudNOSCaAjua1WSdxNkui" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +29,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager" selected="Python.6_gameover">
@@ -154,22 +162,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1515" height="186" key="GridCell.Tab.0.bottom" timestamp="1608391247580">
+    <state width="1351" height="186" key="GridCell.Tab.0.bottom" timestamp="1608391783412">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="186" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608391247580" />
-    <state width="1515" height="186" key="GridCell.Tab.0.center" timestamp="1608391247579">
+    <state width="1351" height="186" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608391783412" />
+    <state width="1351" height="186" key="GridCell.Tab.0.center" timestamp="1608391783411">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="186" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608391247579" />
-    <state width="1515" height="186" key="GridCell.Tab.0.left" timestamp="1608391247579">
+    <state width="1351" height="186" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608391783411" />
+    <state width="1351" height="186" key="GridCell.Tab.0.left" timestamp="1608391783411">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="186" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608391247579" />
-    <state width="1515" height="186" key="GridCell.Tab.0.right" timestamp="1608391247580">
+    <state width="1351" height="186" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608391783411" />
+    <state width="1351" height="186" key="GridCell.Tab.0.right" timestamp="1608391783411">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="186" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608391247580" />
+    <state width="1351" height="186" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608391783411" />
     <state x="316" y="115" key="SettingsEditor" timestamp="1608390285373">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
